@@ -1,0 +1,5 @@
+{
+  "name": "IEvaluate-ClinicalIE-Plugin",
+  "mainClass": "edu.mayo.dhs.ievaluate.clinicalie.IEvaluateClinicalIE",
+  "required": []
+}
