@@ -1,11 +1,11 @@
-package edu.mayo.dhs.ievaluate.clinicalie.assertions;
+package edu.mayo.dhs.ievaluate.plugins.clinicalai.assertions;
 
 import edu.mayo.dhs.ievaluate.api.models.assertions.AssertionDefinition;
 import edu.mayo.dhs.ievaluate.api.models.assertions.AssertionInput;
 import edu.mayo.dhs.ievaluate.api.models.assertions.AssertionOutput;
 
 /**
- * An assertion definition for clinical phenotyping tasks
+ * An assertion definition for clinicalai phenotyping tasks
  */
 public class ClinicalPhenotypingAssertionDefinition extends AssertionDefinition {
     @Override

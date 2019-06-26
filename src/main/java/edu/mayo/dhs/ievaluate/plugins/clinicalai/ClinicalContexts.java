@@ -1,4 +1,4 @@
-package edu.mayo.dhs.ievaluate.clinicalie;
+package edu.mayo.dhs.ievaluate.plugins.clinicalai;
 
 /**
  * Wrapper class for various clinical context enumerations

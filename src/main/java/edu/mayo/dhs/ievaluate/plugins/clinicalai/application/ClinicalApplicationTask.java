@@ -1,4 +1,4 @@
-package edu.mayo.dhs.ievaluate.clinicalie.application;
+package edu.mayo.dhs.ievaluate.plugins.clinicalai.application;
 
 import edu.mayo.dhs.ievaluate.api.models.tasks.ApplicationTask;
 

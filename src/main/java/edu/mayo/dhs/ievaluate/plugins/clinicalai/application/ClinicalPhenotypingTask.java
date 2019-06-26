@@ -1,7 +1,7 @@
-package edu.mayo.dhs.ievaluate.clinicalie.application;
+package edu.mayo.dhs.ievaluate.plugins.clinicalai.application;
 
 import edu.mayo.dhs.ievaluate.api.models.assertions.AssertionDefinition;
-import edu.mayo.dhs.ievaluate.clinicalie.assertions.ClinicalPhenotypingAssertionDefinition;
+import edu.mayo.dhs.ievaluate.plugins.clinicalai.assertions.ClinicalPhenotypingAssertionDefinition;
 
 public class ClinicalPhenotypingTask extends ClinicalApplicationTask {
 

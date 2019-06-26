@@ -1,4 +1,4 @@
-package edu.mayo.dhs.ievaluate.clinicalie.assertions;
+package edu.mayo.dhs.ievaluate.plugins.clinicalai.assertions;
 
 import edu.mayo.dhs.ievaluate.api.models.assertions.AssertionInput;
 
