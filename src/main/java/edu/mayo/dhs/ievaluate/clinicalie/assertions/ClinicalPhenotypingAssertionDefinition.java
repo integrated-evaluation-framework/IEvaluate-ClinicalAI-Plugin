@@ -5,16 +5,16 @@ import edu.mayo.dhs.ievaluate.api.models.assertions.AssertionInput;
 import edu.mayo.dhs.ievaluate.api.models.assertions.AssertionOutput;
 
 /**
- *
+ * An assertion definition for clinical phenotyping tasks
  */
-public class ClinicalPhenotypingAssertion extends AssertionDefinition {
+public class ClinicalPhenotypingAssertionDefinition extends AssertionDefinition {
     @Override
     public Class<? extends AssertionInput> getInputType() {
-        return null;
+        return ClinicalPhenotypingInputDefinition.class;
     }
 
     @Override
     public Class<? extends AssertionOutput> getOutputType() {
-        return null;
+        return ClinicalPhenotypingOutputDefinition.class;
     }
 }
