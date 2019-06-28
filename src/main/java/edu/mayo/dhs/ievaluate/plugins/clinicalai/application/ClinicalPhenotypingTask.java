@@ -3,6 +3,8 @@ package edu.mayo.dhs.ievaluate.plugins.clinicalai.application;
 import edu.mayo.dhs.ievaluate.api.models.assertions.AssertionDefinition;
 import edu.mayo.dhs.ievaluate.plugins.clinicalai.assertions.ClinicalPhenotypingAssertionDefinition;
 
+import java.util.UUID;
+
 public class ClinicalPhenotypingTask extends ClinicalApplicationTask {
 
     private String conditionName;
